@@ -1,0 +1,8 @@
+{
+  "temp" : 80,
+  "description" : "weather forecast",
+  "location" : {
+    "city" : "SFO",
+    "country" : "USA"
+  }
+}
