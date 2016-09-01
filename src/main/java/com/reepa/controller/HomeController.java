@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Created by pradeep on 09-06-2016.
+ * Created by reepa on 09-06-2016.
  */
 
 

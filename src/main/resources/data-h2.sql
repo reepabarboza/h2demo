@@ -1,5 +1,5 @@
-/*Insert into Author(first_name,last_name,id) values ('pradeep','dsilva',1);
-Insert into post(title,body,id,author_id,posted_on) values ('pradeep','Hello boy',1,1,CURRENT_TIMESTAMP);*/
+/*Insert into Author(first_name,last_name,id) values ('reepa','dsilva',1);
+Insert into post(title,body,id,author_id,posted_on) values ('reepa','Hello boy',1,1,CURRENT_TIMESTAMP);*/
 
 
 

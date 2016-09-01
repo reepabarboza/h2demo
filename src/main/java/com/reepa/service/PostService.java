@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * Created by pradeep on 09-06-2016.
+ * Created by reepa on 09-06-2016.
  */
 @Service
 public class PostService {

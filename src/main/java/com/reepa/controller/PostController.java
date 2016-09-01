@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * Created by pradeep on 09-06-2016.
+ * Created by reepa on 09-06-2016.
  */
 
 //@RestController
@@ -73,20 +73,6 @@ public class PostController {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     /*@Autowired
     public PostController(PostService postService) {
         this.postService = postService;
@@ -117,11 +103,6 @@ public class PostController {
     public Post findPostBySlug(@PathVariable(value="slug") String slug ) {
         return postService.findBySlug(slug);
     }*/
-
-
-
-
-
 
 
 

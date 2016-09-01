@@ -1,7 +1,7 @@
 package com.reepa.domain;
 
 /**
- * Created by pradeep on 20-06-2016.
+ * Created by reepa on 20-06-2016.
  */
 public class Weather {
 
